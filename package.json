@@ -1,0 +1,15 @@
+{
+  "name": "profiler",
+  "version": "1.0.0",
+  "description": "simple endpoint profiler",
+  "main": "index.js",
+  "scripts": {
+    "profile": "node index.js"
+  },
+  "author": "Paul Wardrip <pwardrip@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.22.0",
+    "request": "^2.85.0"
+  }
+}

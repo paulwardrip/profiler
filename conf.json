@@ -1,0 +1,10 @@
+{
+  "url": "http://localhost:8080/",
+  "bearer": "xyz",
+
+  "requests": {
+    "total": 5000,
+    "requests": 25,
+    "perxsec": 5  
+  }
+}
